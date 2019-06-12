@@ -1,2 +1,2 @@
 # db-queries
-Explaining CRUD operation using SQLiteDatabase 
+Explaining CRUD operations using SQLiteDatabase 
